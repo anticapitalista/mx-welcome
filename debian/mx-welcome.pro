@@ -46,8 +46,6 @@ TRANSLATIONS += translations/mx-welcome_ca.ts \
                 translations/mx-welcome_it.ts \
                 translations/mx-welcome_ja.ts \
                 translations/mx-welcome_nl.ts \
-                translations/mx-welcome_pl.ts \
-                translations/mx-welcome_ru.ts \
                 translations/mx-welcome_sv.ts
 
 
