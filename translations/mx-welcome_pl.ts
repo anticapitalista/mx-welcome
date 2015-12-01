@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="pl_PL">
+<TS version="2.1" language="pl">
 <context>
     <name>QApplication</name>
     <message>
@@ -42,7 +42,7 @@
     <message>
         <location filename="../mxwelcome.ui" line="222"/>
         <source>Videos</source>
-        <translation type="unfinished"></translation>
+        <translation>Wideo</translation>
     </message>
     <message>
         <location filename="../mxwelcome.ui" line="290"/>
@@ -52,7 +52,7 @@
     <message>
         <location filename="../mxwelcome.ui" line="339"/>
         <source>Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Narzędzia</translation>
     </message>
     <message>
         <location filename="../mxwelcome.ui" line="362"/>
@@ -72,32 +72,32 @@
     <message>
         <location filename="../mxwelcome.ui" line="484"/>
         <source>Quit application</source>
-        <translation type="unfinished"></translation>
+        <translation>Zamknij apliikację</translation>
     </message>
     <message>
         <location filename="../mxwelcome.ui" line="487"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Zamknij</translation>
     </message>
     <message>
         <location filename="../mxwelcome.ui" line="494"/>
         <source>Alt+N</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+N</translation>
     </message>
     <message>
         <location filename="../mxwelcome.ui" line="532"/>
         <source>About this application</source>
-        <translation type="unfinished"></translation>
+        <translation>O programie</translation>
     </message>
     <message>
         <location filename="../mxwelcome.ui" line="535"/>
         <source>About...</source>
-        <translation type="unfinished"></translation>
+        <translation>O...</translation>
     </message>
     <message>
         <location filename="../mxwelcome.ui" line="542"/>
         <source>Alt+B</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+B</translation>
     </message>
     <message>
         <location filename="../mxwelcome.cpp" line="103"/>
@@ -107,7 +107,7 @@
     <message>
         <location filename="../mxwelcome.cpp" line="104"/>
         <source>Version: </source>
-        <translation type="unfinished"></translation>
+        <translation>Wersja:</translation>
     </message>
     <message>
         <location filename="../mxwelcome.cpp" line="105"/>
@@ -117,17 +117,17 @@
     <message>
         <location filename="../mxwelcome.cpp" line="107"/>
         <source>Copyright (c) MX Linux</source>
-        <translation type="unfinished"></translation>
+        <translation>Copyright (c) MX Linux</translation>
     </message>
     <message>
         <location filename="../mxwelcome.cpp" line="108"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Anuluj</translation>
     </message>
     <message>
         <location filename="../mxwelcome.cpp" line="109"/>
         <source>License</source>
-        <translation type="unfinished"></translation>
+        <translation>Licencja</translation>
     </message>
 </context>
 </TS>

@@ -142,10 +142,6 @@
         <translation>Strumenti</translation>
     </message>
     <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;Explore the links below to get started.&lt;/span&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;Esplora i links indicati sotto per iniziare.&lt;/span&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
-    </message>
-    <message>
         <location filename="../mxwelcome.ui" line="362"/>
         <source>Contribute</source>
         <translation>Contributi</translation>
@@ -194,7 +190,7 @@
         <location filename="../mxwelcome.cpp" line="103"/>
 >>>>>>> upstream/master
         <source>About MX Welcome</source>
-        <translation>Informazioni su MX Welcome</translation>
+        <translation>Informazioni su MX Benvenuto</translation>
     </message>
     <message>
 <<<<<<< HEAD
