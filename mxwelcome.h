@@ -5,7 +5,8 @@
  *
  * Authors: Adrian
  *          Paul David Callahan
- *          MX & MEPIS Community <http://forum.mepiscommunity.org>
+ *          Dolphin Oracle
+ *          MX Linux <http://mxlinux.org>
  *
  * This file is part of mx-welcome.
  *
@@ -73,6 +74,10 @@ private slots:
     void on_buttonVideo_clicked();
     void on_buttonContribute_clicked();
     void on_buttonLogininfo_clicked();
+
+    void on_buttonPanelOrient_clicked();
+
+    void on_buttonPackageInstall_clicked();
 
 private:
     Ui::mxwelcome *ui;

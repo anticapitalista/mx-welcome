@@ -1,3 +1,33 @@
+mx-welcome (16.10mx16) mx; urgency=medium
+
+  * changed URLs 
+
+ -- Adrian <adrian@mxlinux.org>  Tue, 11 Oct 2016 10:24:52 -0400
+
+mx-welcome (16.9mx15) mx; urgency=medium
+
+  * new urls
+
+ -- dolphinoracle <dolphinoracle@gmail.com>  Tues, 11 Oct 2016 10:04:53 -0400
+
+mx-welcome (16.9mx15) mx; urgency=medium
+
+  * new options
+
+ -- dolphinoracle <dolphinoracle@gmail.com>  Wed, 28 Sep 2016 08:41:53 -0400
+
+mx-welcome (16.5mx15) mx; urgency=medium
+
+  * new desktop file
+
+ -- dolphinoracle <dolphinoracle@gmail.com>  Mon, 23 May 2016 13:27:00 -0400
+
+mx-welcome (15.12mx15) mx; urgency=medium
+
+  * hide GUI when displaying help/license
+
+ -- Adrian <adrian@mxlinux.org>  Tue, 22 Dec 2015 18:23:12 -0500
+
 mx-welcome (15.11.1mx15) mx; urgency=medium
 
   * changed icon location
